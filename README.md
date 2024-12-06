@@ -1,2 +1,2 @@
-# randomstuff
-Random Stuff!
+# CodeProjects
+Welcome to CodeProjects!
